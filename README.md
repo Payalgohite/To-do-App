@@ -1,9 +1,6 @@
 # ✅ To-Do App
 
 A simple, creative, and interactive To-Do application built using **HTML**, **CSS**, and **JavaScript**.
-
-![screenshot](https://via.placeholder.com/800x400?text=To-Do+App+Preview)
-
 ---
 
 ## 🚀 Features
