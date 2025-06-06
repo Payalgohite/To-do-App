@@ -34,7 +34,8 @@ A simple, creative, and interactive To-Do application built using **HTML**, **CS
    git clone https://github.com/yourusername/todo-app.git
    cd todo-app
 ✨ Screenshots
-![Screenshot 2025-06-07 013542](https://github.com/user-attachments/assets/89ea742b-f498-42eb-a8d1-f25b6009f4c3)
+![Screenshot 2025-06-07 013621](https://github.com/user-attachments/assets/a2df4c65-74ce-4914-9d8d-e71b3af76886)
+
 
 📌 Future Improvements
 🔄 Task editing
